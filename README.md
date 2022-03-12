@@ -12,7 +12,7 @@ This application was build solely using the terminal and outputs and HTML file a
 
 ## Github & Contact 
 
-#Username
+# Username
 * aguasvivasjc
 
 # Email 
