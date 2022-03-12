@@ -1,9 +1,7 @@
-## README Generator 
+## Team Generator 
 
-From the terminal create a README.md application that will be generated solely through a terminal.
-
-The purpose of having a README.md file is to create detailed documentation of your project. 
-This is useful not only to you but to whom ever may use your application. 
+Create a roster for your employment team! 
+This application was build solely using the terminal and outputs and HTML file as shown below. 
 
 
 ## Deployed Site 
