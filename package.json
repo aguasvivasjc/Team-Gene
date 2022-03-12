@@ -1,0 +1,29 @@
+{
+  "name": "team-gene",
+  "version": "1.0.0",
+  "description": "Node.js command-line application that takes in information",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguasvivasjc/Team-Gene.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguasvivasjc/Team-Gene/issues"
+  },
+  "homepage": "https://github.com/aguasvivasjc/Team-Gene#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1",
+    "path": "^0.12.7"
+  }
+}
