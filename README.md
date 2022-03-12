@@ -1,7 +1,7 @@
 ## Team Generator 
 
 Create a roster for your employment team! 
-This application was build solely using the terminal and outputs and HTML file as shown below. 
+This application was build solely using the terminal and outputs an HTML file as shown below. 
 
 
 ## Deployed Site 
